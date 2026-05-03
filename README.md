@@ -72,3 +72,6 @@ NPL oranı ve risk kategorisi listelenmiştir.
 - Kredi Kartları (37,781 milyar TL, %3.48) yüksek hacmi 
   nedeniyle yakından izlenmesi gereken sektördür
 
+**İletişim:**
+www.linkedin.com/in/mustafa-güçlü-616461136
+
