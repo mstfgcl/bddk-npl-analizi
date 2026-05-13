@@ -78,6 +78,7 @@ NPL oranı ve risk kategorisi listelenmiştir.
   [https://public.tableau.com/views/2025_npl/Dashboard1?:l](https://public.tableau.com/views/2025_npl/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 
+
 **İletişim:**
 www.linkedin.com/in/mustafa-güçlü-616461136
 
