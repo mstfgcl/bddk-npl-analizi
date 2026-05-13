@@ -50,8 +50,7 @@ NPL oranı ve risk kategorisi listelenmiştir.
 ## Öne Çıkan Bulgular
 
 **Genel Tablo:**
-- 2025 yılı genel NPL ortalaması %1.88 olup uluslararası 
-  kritik eşik olan %5'in belirgin şekilde altındadır
+- 2025 yılı genel NPL ortalaması %1.88 tir.
 - Yalnızca 1 sektör Kritik Risk eşiğini aşmıştır
 
 **Kritik Risk:**
@@ -61,7 +60,7 @@ NPL oranı ve risk kategorisi listelenmiştir.
 
 **Yüksek Risk — Büyük Hacimli:**
 - Ferdi Kredi Diğer (%4.76, 22,627 milyar TL) — hem hacim 
-  büyük hem risk yüksek, en kritik kombinasyon
+  büyük hem risk yüksek
 - İnşaat (%3.83, 15,145 milyar TL) — yüksek hacimli 
   geleneksel risk sektörü
 
