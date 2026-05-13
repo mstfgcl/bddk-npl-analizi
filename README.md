@@ -16,6 +16,7 @@ analiz etmektedir.
 - DB Browser for SQLite
 - Python — 12 Excel dosyasını CSV formatına dönüştürmek ve
   SQLite veritabanına aktarmak için
+- Tableau  
 
 ## Analizler
 
@@ -71,6 +72,9 @@ NPL oranı ve risk kategorisi listelenmiştir.
   sektör (%0.16 NPL)
 - Kredi Kartları (37,781 milyar TL, %3.48) yüksek hacmi 
   nedeniyle yakından izlenmesi gereken sektördür
+**Grafik**
+  <img width="2778" height="1330" alt="Dashboard 1" src="https://github.com/user-attachments/assets/d040b272-6202-48b0-b706-b6314b417215" />
+
 
 **İletişim:**
 www.linkedin.com/in/mustafa-güçlü-616461136
